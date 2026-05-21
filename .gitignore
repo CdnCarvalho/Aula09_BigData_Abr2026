@@ -1,0 +1,9 @@
+venv/
+**/venv/
+# Venv/
+# VENV/
+
+*.csv
+
+*.xls
+*.xlsx
